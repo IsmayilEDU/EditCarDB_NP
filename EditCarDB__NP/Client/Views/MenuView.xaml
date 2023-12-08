@@ -1,0 +1,21 @@
+﻿<Window x:Class="Client.MenuView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Title="Menu" Height="550" Width="400" WindowStartupLocation="CenterScreen">
+    <StackPanel>
+        <Button Width="200" Height="70" Margin="12" FontSize="25"  
+                Name = "button_GetById" Content="GetById" Click="button_GetById_Click"/>
+        <Button Width="200" Height="70" Margin="12" FontSize="25"  
+                Name = "button_GetAll" Content="GetAll" Click="button_GetAll_Click"/>
+        <Button Width="200" Height="70" Margin="12" FontSize="25"  
+                Name = "button_AddCar" Content="AddCar" Click="button_AddCar_Click"/>
+        <Button Width="200" Height="70" Margin="12" FontSize="25"  
+                Name = "button_UpdateCar" Content="UpdateCar" Click="button_UpdateCar_Click"/>
+        <Button Width="200" Height="70" Margin="12" FontSize="25"  
+                Name = "button_DeleteCar" Content="DeleteCar" Click="button_DeleteCar_Click"/>
+    </StackPanel>
+</Window>

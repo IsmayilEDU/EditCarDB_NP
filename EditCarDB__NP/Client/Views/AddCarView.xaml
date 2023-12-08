@@ -1,0 +1,34 @@
+﻿<Window x:Class="Client.Views.AddCarView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client.Views"
+        mc:Ignorable="d"
+        Title="AddCarView" Height="750" Width="450" WindowStartupLocation="CenterScreen">
+    <StackPanel>
+        
+        <!--Input Make-->
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center"
+                   Text="Make" FontSize="30" Margin="10"/>
+        <TextBox Name="textbox_Make" FontSize="30" Margin="10 10 10 30"/>
+        
+        <!--Input Model-->
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center"
+                   Text="Model" FontSize="30" Margin="10"/>
+        <TextBox Name="textbox_Model" FontSize="30" Margin="10 10 10 30"/>
+        
+        <!--Input Year-->
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center"
+                   Text="Year" FontSize="30" Margin="10"/>
+        <TextBox Name="textbox_Year" FontSize="30" Margin="10 10 10 30"/>
+        
+        <!--Input Color-->
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center"
+                   Text="Color" FontSize="30" Margin="10"/>
+        <TextBox Name="textbox_Color" FontSize="30" Margin="10 10 10 30"/>
+        
+        <!--Button for add-->
+        <Button Height="70" Width="200" Content="Add car" FontSize="30"/>
+    </StackPanel>
+</Window>

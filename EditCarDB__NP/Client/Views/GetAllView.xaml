@@ -1,0 +1,20 @@
+﻿<Window x:Class="Client.Views.GetAllView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client.Views"
+        mc:Ignorable="d"
+        Title="GetAllView" Height="450" Width="800">
+    <ListView ItemsSource="{Binding Cars}" ScrollViewer.VerticalScrollBarVisibility="Auto">
+        <ListView.View>
+            <GridView>
+                <GridViewColumn Width="160" Header="Id" DisplayMemberBinding="{Binding Id}"/>
+                <GridViewColumn Width="160" Header="Make" DisplayMemberBinding="{Binding Make}"/>
+                <GridViewColumn Width="160" Header="Model" DisplayMemberBinding="{Binding Model}"/>
+                <GridViewColumn Width="160" Header="Year" DisplayMemberBinding="{Binding Year}"/>
+                <GridViewColumn Width="160" Header="Color" DisplayMemberBinding="{Binding Color}"/>
+            </GridView>
+        </ListView.View>
+    </ListView>
+</Window>
