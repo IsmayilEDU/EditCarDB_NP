@@ -53,7 +53,7 @@ namespace Client.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Client;component/views/getallview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Client;V1.0.0.0;component/views/getallview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\GetAllView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

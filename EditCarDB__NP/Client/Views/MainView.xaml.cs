@@ -1,6 +1,9 @@
-﻿using System;
+﻿using Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
+using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -12,19 +15,24 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace Client
+namespace Client.Views
 {
     /// <summary>
-    /// Interaction logic for MenuView.xaml
+    /// Interaction logic for MainView.xaml
     /// </summary>
-    public partial class MenuView : Window
+    public partial class MainView : Window, ITCPClient
     {
-        public MenuView()
+        public TcpClient Client { get ; set ; }
+
+        public MainView()
         {
             InitializeComponent();
+            var ip = IPAddress.Parse("127.0.0.1");
+            var port = 27001;
+            Client = new TcpClient(ip.ToString(), port);
         }
 
-        
+
 
         private void button_GetById_Click(object sender, RoutedEventArgs e)
         {

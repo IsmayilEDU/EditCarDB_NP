@@ -19,7 +19,7 @@
     <Compile Update="Views\GetByIdView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\MenuView.xaml.cs">
+    <Compile Update="Views\MainView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Views\UpdateCarView.xaml.cs">
@@ -39,7 +39,7 @@
     <Page Update="Views\GetByIdView.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Views\MenuView.xaml">
+    <Page Update="Views\MainView.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\UpdateCarView.xaml">

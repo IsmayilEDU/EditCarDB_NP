@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\App.xaml
-6-1637584785
+61313839359
 
-10-1408362987
+11-319134484
 1951627739591
-Views\AddCarView.xaml;Views\DeleteCarView.xaml;Views\GetAllView.xaml;Views\GetByIdView.xaml;Views\MenuView.xaml;Views\UpdateCarView.xaml;
+Views\AddCarView.xaml;Views\DeleteCarView.xaml;Views\GetAllView.xaml;Views\GetByIdView.xaml;Views\MainView.xaml;Views\UpdateCarView.xaml;
 
 True
 

@@ -10,7 +10,6 @@ C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, 
 C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Views\DeleteCarView.g.cs
 C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Views\GetAllView.g.cs
 C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Views\GetByIdView.g.cs
-C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Views\MenuView.g.cs
 C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Views\UpdateCarView.g.cs
 C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\App.g.cs
 C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Client_MarkupCompile.cache
@@ -19,7 +18,6 @@ C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, 
 C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Views\DeleteCarView.baml
 C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Views\GetAllView.baml
 C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Views\GetByIdView.baml
-C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Views\MenuView.baml
 C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Views\UpdateCarView.baml
 C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Client.g.resources
 C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
@@ -32,3 +30,5 @@ C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, 
 C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Client.pdb
 C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Client.genruntimeconfig.cache
 C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\ref\Client.dll
+C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Ismayil\PROJECTS\StepIT\10.NetworkProgramming\Lesson 5 - Unicast, MultiCast, Broadcast\EditCarDB_NP\EditCarDB__NP\Client\obj\Debug\net6.0-windows\Views\MainView.baml

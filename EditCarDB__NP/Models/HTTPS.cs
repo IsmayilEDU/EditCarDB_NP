@@ -8,9 +8,10 @@ namespace Models
 {
     public enum HTTPS
     {
+        ADD,
         GET,
-        POST,
-        PUT,
+        GETALL,
+        UPDATE,
         DELETE
     }
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MYJ+SsC5BXPtWC4GopeME5Upkw12C9RoPUVdZkCpW547ccT9T3XR8DAA6LC1+GmixdMwnqbVW/+13/fh6Ll4KA==",
+  "dgSpecHash": "atFR2b7npT4jVrfr9qG8lqxo7KWhgy/zx+9QbbnXpiBptgn6kobBsGhHhDAdkuaKauJXgYkuA+p6YtuJ7zvKzA==",
   "success": true,
   "projectFilePath": "C:\\Ismayil\\PROJECTS\\StepIT\\10.NetworkProgramming\\Lesson 5 - Unicast, MultiCast, Broadcast\\EditCarDB_NP\\EditCarDB__NP\\Server\\Server.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI NOTEBOOK\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
